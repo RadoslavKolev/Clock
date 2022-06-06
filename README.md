@@ -11,7 +11,7 @@ Technologies used
 
 This is just sample project to maintain my Frontend skills
 
-#Play with the code
+# Play with the code
 Live demo - https://codepen.io/radoslavkolev/pen/wvyxQrm
 
 Result:
